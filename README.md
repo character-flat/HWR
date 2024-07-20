@@ -54,8 +54,7 @@ Feel free to reach out if you have any questions or just want to chat about deep
 ---
 
 ### 📫 Get in Touch
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)
+- **Email:** su418@duck.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/suraj-ambareesh/)
 
 Thanks for stopping by! Happy coding! 🚀
